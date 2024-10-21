@@ -1,4 +1,5 @@
-# Momento
+# Momento 🏢
+Este repositório contém uma série de consultas e operações em um banco de dados MongoDB relacionado à empresa Momento. Através de perguntas e comandos, exploramos informações sobre funcionários, departamentos e salários.
 
 01. **Quantos funcionários da empresa Momento trabalham no departamento de vendas?**  
    **Q:** `db.funcionarios.countDocuments({departamento: ObjectId("85992103f9b3e0b3b3c1fe71")})`  
