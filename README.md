@@ -4,9 +4,9 @@
 1. Quantos funcionarios da empresa Momento trabalham no departamento de vendas?
 
 R: 10 funcionários.
-Q: 'db.funcionarios.countDocuments(
+Q: `db.funcionarios.countDocuments(
     {departamento: ObjectId("85992103f9b3e0b3b3c1fe71")
-    })'
+    })`
 
 --------------------------------------------------------------
 
